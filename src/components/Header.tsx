@@ -28,7 +28,7 @@ export function Header() {
             animate={{ opacity: 1, x: 0 }}
             className="text-4xl font-bold"
           >
-            Patrones de Diseño
+            Info Gracias de Diseño
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0, x: -20 }}
